@@ -1,0 +1,291 @@
+[
+  {
+    "slug": "transport",
+    "translations": [
+      {
+        "name": "Transport și accesorii",
+        "locale": "ro"
+      },
+      {
+        "name": "Транспорт и аксессуары",
+        "locale": "ru"
+      },
+      {
+        "name": "Transport and accessories",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "kids",
+    "translations": [
+      {
+        "name": "Lumea copiilor",
+        "locale": "ro"
+      },
+      {
+        "name": "Детский мир",
+        "locale": "ru"
+      },
+      {
+        "name": "Children's World",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "sport",
+    "translations": [
+      {
+        "name": "Sport și odihnă",
+        "locale": "ro"
+      },
+      {
+        "name": "Спорт и отдых",
+        "locale": "ru"
+      },
+      {
+        "name": "Sports and leisure",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "clothes",
+    "translations": [
+      {
+        "name": "Haine, încălțăminte și accesorii",
+        "locale": "ro"
+      },
+      {
+        "name": "Одежда, обувь и аксессуары",
+        "locale": "ru"
+      },
+      {
+        "name": "Clothes, shoes and accessories",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "estate",
+    "translations": [
+      {
+        "name": "Imobiliare",
+        "locale": "ro"
+      },
+      {
+        "name": "Недвижимость",
+        "locale": "ru"
+      },
+      {
+        "name": "Real estate",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "furniture",
+    "translations": [
+      {
+        "name": "Mobilă și interior",
+        "locale": "ro"
+      },
+      {
+        "name": "Мебель и интерьер",
+        "locale": "ru"
+      },
+      {
+        "name": "Furniture and interior",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "home-appliances",
+    "translations": [
+      {
+        "name": "Tehnică de uz casnic",
+        "locale": "ro"
+      },
+      {
+        "name": "Бытовая техника",
+        "locale": "ru"
+      },
+      {
+        "name": "Household technology",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "animals-and-plants",
+    "translations": [
+      {
+        "name": "Animale de companie și plante",
+        "locale": "ro"
+      },
+      {
+        "name": "Домашние животные и растения",
+        "locale": "ru"
+      },
+      {
+        "name": "Pets and plants",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "computers",
+    "translations": [
+      {
+        "name": "Calculatoare și accesorii",
+        "locale": "ro"
+      },
+      {
+        "name": "Компьютеры и аксессуары",
+        "locale": "ru"
+      },
+      {
+        "name": "Computers and accessories",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "electronics",
+    "translations": [
+      {
+        "name": "Electronice",
+        "locale": "ro"
+      },
+      {
+        "name": "Электронника",
+        "locale": "ru"
+      },
+      {
+        "name": "Electronics",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "school",
+    "translations": [
+      {
+        "name": "Pentru școală și oficiu",
+        "locale": "ro"
+      },
+      {
+        "name": "Для школы и офиса",
+        "locale": "ru"
+      },
+      {
+        "name": "For school and office",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "musical-instruments",
+    "translations": [
+      {
+        "name": "Instrumente muzicale",
+        "locale": "ro"
+      },
+      {
+        "name": "Музыкальные инструменты",
+        "locale": "ru"
+      },
+      {
+        "name": "Musical instruments",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "books",
+    "translations": [
+      {
+        "name": "Cărți",
+        "locale": "ro"
+      },
+      {
+        "name": "Книги",
+        "locale": "ru"
+      },
+      {
+        "name": "Books",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "beauty",
+    "translations": [
+      {
+        "name": "Sănătate și frumusețe",
+        "locale": "ro"
+      },
+      {
+        "name": "Здоровье и красота",
+        "locale": "ru"
+      },
+      {
+        "name": "Health and beauty",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "entertainment",
+    "translations": [
+      {
+        "name": "Divertisment",
+        "locale": "ro"
+      },
+      {
+        "name": "Развлечения",
+        "locale": "ru"
+      },
+      {
+        "name": "Entertainment",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "tools-and-equipments",
+    "translations": [
+      {
+        "name": "Scule și utilaje",
+        "locale": "ro"
+      },
+      {
+        "name": "Стройматериалы",
+        "locale": "ru"
+      },
+      {
+        "name": "Tools and equipment",
+        "locale": "en"
+      }
+    ]
+  },
+  {
+    "slug": "others",
+    "translations": [
+      {
+        "name": "Diverse",
+        "locale": "ro"
+      },
+      {
+        "name": "Разное",
+        "locale": "ru"
+      },
+      {
+        "name": "Others",
+        "locale": "en"
+      }
+    ]
+  }
+]

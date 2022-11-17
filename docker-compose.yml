@@ -1,0 +1,31 @@
+version: '3.9'
+services:
+
+  server:
+    container_name: ${APP_NAME}-server
+    build:
+      context: .
+    env_file: .env
+    depends_on:
+      - postgres
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/usr/local/app
+      - storage:/usr/local/app/storage
+      - /usr/local/app/node_modules
+    command: yarn start:dev
+
+  postgres:
+    container_name: ${APP_NAME}-postgres
+    image: postgres:${POSTGRES_VERSION}
+    env_file: .env
+    ports:
+      - "5432:5432"
+    volumes:
+      - "/etc/timezone:/etc/timezone:ro"
+      - "/etc/localtime:/etc/localtime:ro"
+
+
+volumes:
+  storage:
